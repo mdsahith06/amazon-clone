@@ -1,0 +1,55 @@
+.menu{
+    background-color:rgb(61, 81, 118);
+    padding: 10px;
+    color: aliceblue;
+}
+#location{
+    color: aliceblue;
+}
+.search{
+    color: aliceblue;
+    background-color: rgb(13, 15, 37);
+    padding: 10px;
+}
+.upgrade{
+    background-color: white;
+    padding: ;
+    width: 400px;
+    height: 320px;
+    position: relative;
+    left: 60px;
+    bottom: 420px;
+}
+.fridge{
+    position: relative;
+left: 19px;
+bottom: 2px;
+}
+.boxes{
+    position: relative;
+    left: 200px;
+    bottom: 1px;
+}
+.sofa{
+
+    position: relative;
+    bottom: 2px;
+    right: 170px;
+}
+.tv{
+    position: relative;
+    bottom:5px;
+    left: 8px;
+}
+.revamp{
+    background-color: white;
+    height: 320px;
+    width: 400px;
+    position: relative;
+    bottom: 750px;
+    left: 500px;
+}
+.rajinikanth{
+    display: grid;
+    grid-template-columns: 50px  ;
+    grid-template-rows: 50px ;
